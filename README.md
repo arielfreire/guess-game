@@ -1,2 +1,2 @@
 # guess-game
-Jogo de adivinhação apresentado como trabalho da disciplina "Algorítimos Computacionais"
+Jogo de adivinhação apresentado como trabalho da disciplina "Algoritimos Computacionais"
